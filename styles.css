@@ -1,0 +1,14 @@
+canvas {
+    cursor: default;
+    outline: none;
+}
+
+body {
+    overflow: hidden;
+}
+
+table, tbody, tr, td, body {
+    background-color: #222222;
+    padding: 0;
+    margin: 0;
+}
